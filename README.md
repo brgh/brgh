@@ -1,4 +1,11 @@
-### Hi there 👋
+# Hi there 👋 
+### This is my first iteration of my README 
+##### [This page is under construction]
+
+
+I will be using this as a way to work on cool projects I've been working on. 
+
+I am new at this and I welcome all comments that help with the goal of learning!
 
 <!--
 **brgh/brgh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
