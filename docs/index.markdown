@@ -4,7 +4,7 @@
 
 # layout: home 
 # title: Home 
-# banner: "/assets/images/banners/IMG_0666.jpeg"
+# banner: ""
 ---
 
 
